@@ -2,4 +2,4 @@ source 'http://rubygems.org'
 
 gem 'dotenv'
 gem 'redis'
-gem 'sinatra', '~> 2.0'
+gem 'sinatra', '~> 2.2'
